@@ -1,4 +1,4 @@
-// If 10 fighters shot down all you did win.
+//Shoot down all 10 enemy fighters to win
 // Mouse Move ... Rotate
 // Mouse Left Click... Shot
 // Mouse Right Click ... Accel
