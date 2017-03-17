@@ -6,7 +6,7 @@ Shoot down all the 10 enemy fighters to win
 
 Mouse Move ... Rotate
 
-Mouse Left Click... Shot
+Mouse Left Click... Shoot
 
 Mouse Right Click ... Accel
 
